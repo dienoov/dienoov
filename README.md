@@ -1,4 +1,4 @@
-# How to use it
+# How to use it <img src="https://github.com/dienoov/dienoov/blob/master/think.gif" width="32px">
 
 **dienoov/dienoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
