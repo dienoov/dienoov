@@ -1,4 +1,4 @@
-# How to use it <img src="https://github.com/dienoov/dienoov/blob/master/think.gif" width="32px">
+# How to use it
 
 **dienoov/dienoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-----
-**Stats**|**Languages**
------------- | -------------
-![dienoov Github Stats](https://github-readme-stats.vercel.app/api?username=dienoov&count_private=true&show_icons=true&hide=stars,prs&line_height=28)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dienoov&layout=compact&card_width=350)](https://github.com/dienoov/github-readme-stats)
 ----
 [![Twitter: dienoov](https://img.shields.io/twitter/follow/dienoov?style=social)](https://twitter.com/dienoov)
 [![GitHub dienoov](https://img.shields.io/github/followers/dienoov?label=follow&style=social)](https://github.com/dienoov)
